@@ -7,8 +7,12 @@ Paraphrased and based of the book: Sams Teach Yourself C++ in one Hour a Day
 
 Sams Teach Yourself C++ in one Hour a Day
 
+ISBN
+
       978-0-13-733468-1
-     
+
+ISBN
+
       0-13-733468-0
 
 ## Chapters
