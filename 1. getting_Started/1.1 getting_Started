@@ -32,9 +32,7 @@ C++26: Currently in development, expected to bring reflection, contracts, and fu
 ### Philosophy
 Throughout its history, C++ has stuck to a few guiding principles: "pay only for what you use" (zero-overhead abstractions), backward compatibility with C, and giving programmers low-level control alongside high-level abstraction — which is part of why it's remained dominant in systems programming, game engines, embedded systems, and performance-critical software for over four decades.
 
-
 ### Interpreter and Compilers
-
 An interpreter translates and executes a program as it reads it, turning the program instructions, or source code, directly into actions. A compiler translates source code into an intermediary form. This step is called compiling, and it produces an object file. A linking application called a linker runs after the compiler and combines the object file into an executable program containing machine code that can directly be run on the
 processor.
 Because interpreters read the source code as it is written and execute the code on the spot, interpreters can be easier for the programmer to work with. Today, most interpreted programs are referred to as scripts, and the interpreter itself is often called a script engine.
